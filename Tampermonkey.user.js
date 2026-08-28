@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Otzaria Forum - Client-Side Reputation Ranker
+// @name         tarchameter
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  תוסף צד-לקוח בלבד: מחשב יחס פוסט-מוניטין ומציג דרגות משתמשים באוצריא
