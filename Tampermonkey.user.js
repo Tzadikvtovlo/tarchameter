@@ -8,7 +8,7 @@
 // @match        https://*.otzaria.org/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/tarchameter/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/tarchameter/main/Tampermonkey.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=otzaria.org
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=otzaria.org
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
